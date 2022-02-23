@@ -7,6 +7,6 @@ class Texto{
         System.out.println("\n Olá gentil senhorio ou senhorita, qual és a ta idade");
         int idade = ler.nextInt();
         int an = 2022 - idade;
-        System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t Olá ser maravilhoso que nasceu em " + an);
+        System.out.println("\n...\nCalculando\n...\nEnviando dados\n...\nMostrando dados\n...\t Olá ser maravilhoso que nasceu em " + an);
     }
 }
